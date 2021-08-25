@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wujin.oneToFifty">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appbackground"
+        android:label="1to50"
+        android:roundIcon="@drawable/appbackground"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.wujin.oneToFifty.HelpActivity"></activity>
+        <activity android:name="com.wujin.oneToFifty.ScoreActivity" />
+        <activity android:name="com.wujin.oneToFifty.GameActivity" />
+        <activity android:name="com.wujin.oneToFifty.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="iap:api_version"
+            android:value="7" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+</manifest>
