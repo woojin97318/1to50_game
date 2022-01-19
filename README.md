@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### 프로젝트 소개 :point_right: [Notion](https://wujin97.notion.site/1to50-Game-android-55968eb5b74241c1848e933e9b0fe127) :point_left:
+### :books: 프로젝트 소개 :point_right: [Notion](https://wujin97.notion.site/1to50-Game-android-55968eb5b74241c1848e933e9b0fe127) :point_left:
 
-### 게임 플레이 영상<br>
+### :video_camera: 게임 플레이 영상<br>
 [![1to50 게임 플레이 영상](https://img.youtube.com/vi/Ctq1egblW8Q/0.jpg)](https://youtu.be/Ctq1egblW8Q)
